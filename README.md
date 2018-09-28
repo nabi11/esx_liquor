@@ -15,12 +15,14 @@ esx_basicneeds (custom vers) => https://github.com/nabi11/esx_basicneeds
 #[INSTALLATION]
 
 1) Cd in your resources/[esx] folder
+
 2)Clone the repository
 
 ```
 git clone https://github.com/nabi11/esx_liquor
 ```
 3) Import esx_liquor.sql in you database
+
 4) add this in your server.cfg :
 ```
 sart esx_liquor

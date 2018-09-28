@@ -8,7 +8,7 @@ Config.Locale = 'en'
 
 Config.Zones = {
 
-	liquor = {
+	Liquor = {
 		Items = {},
 		Pos = {
 			{x = 127.830,   y = -1284.796, z = 28.280}, --StripClib

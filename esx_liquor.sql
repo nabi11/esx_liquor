@@ -1,3 +1,5 @@
+USE `essentialmode`;
+
 CREATE TABLE `liquor` (
 
 	`id` int(11) NOT NULL AUTO_INCREMENT,

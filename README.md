@@ -9,7 +9,8 @@ Based on esx shop with bars on FIVEM forum.
 #[REQUIREMENT]
 
 esx_status => https://github.com/ESX-Org/esx_status
-esx_basicneeds => https://github.com/ESX-Org/esx_basicneeds
+
+esx_basicneeds (custom vers) => https://github.com/nabi11/esx_basicneeds
 
 #[INSTALLATION]
 

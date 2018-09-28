@@ -10,7 +10,7 @@ Config.Zones = {
 
 	liquor = {
 		Items = {wine,beer,vodka,tequila,whisky},
-		Pos= {
+		Pos = {
 			{x = 127.830,   y = -1284.796, z = 28.280}, --StripClib
 			{x = -1393.409, y = -606.624,  z = 29.319}, --Bahamamas
 			{x = -559.906,  y = 287.093,   z = 81.176}, --Tequilala

@@ -32,4 +32,3 @@ start esx_status
 start esx_basicneeds
 start esx_liquor
 ```
-# esx_liquor

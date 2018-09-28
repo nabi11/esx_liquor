@@ -12,8 +12,8 @@ CREATE TABLE `liquor` (
 
 INSERT INTO `liquor` (name, item, price) VALUES
 	('Liquor', 'wine', 50),
-	('liquor', 'beer', 50),
-	('liquor', 'vodka', 50),
-	('liquor', 'tequila', 50),
-	('liquor', 'whisky', 50)
+	('Liquor', 'beer', 50),
+	('Liquor', 'vodka', 50),
+	('Liquor', 'tequila', 50),
+	('Liquor', 'whisky', 50)
 ;

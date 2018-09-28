@@ -9,7 +9,7 @@ Config.Locale = 'en'
 Config.Zones = {
 
 	liquor = {
-		Items = {wine,beer,vodka,tequila,whisky},
+		Items = {},
 		Pos = {
 			{x = 127.830,   y = -1284.796, z = 28.280}, --StripClib
 			{x = -1393.409, y = -606.624,  z = 29.319}, --Bahamamas

@@ -2,8 +2,8 @@ description 'ESX Liquor'
 
 version '1.0.0 Alpha'
 
-clients_scripts {
-	'@es_extended/locale.lua'
+client_scripts {
+	'@es_extended/locale.lua',
 	'locales/en.lua',
 	'config.lua',
 	'client/main.lua'
@@ -12,7 +12,7 @@ clients_scripts {
 server_scripts {
 	'@es_extended/locale.lua',
 	'locales/en.lua',
-	'@musql-async/lib/MySQL.lua',
+	'@mysql-async/lib/MySQL.lua',
 	'config.lua',
 	'server/main.lua'
 }
